@@ -1,8 +1,8 @@
 {
   "Filename": "PakTzy.js",
   "Access": [
-    "nomor owner"
-    "another owner number",
+    "nomor owner",
+    "another owner number"
   ],
   "Access_Bot": [
     "nomor bot",
